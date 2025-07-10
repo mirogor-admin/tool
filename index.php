@@ -1,1 +1,1 @@
-<?php echo "Hello from mytool!"; ?>
+<?php echo "ЦУРГАН ЛАТУН"; ?>
